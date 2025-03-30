@@ -119,7 +119,6 @@ Create a `.env` file in the root directory and add your API keys:
 
 ```ini
 OPENAI_API_KEY=your_openai_api_key
-DUCKDUCKGO_API_KEY=your_duckduckgo_api_key
 ```
 
 ### 🔹 3. Run the AI Agent  
