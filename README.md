@@ -52,7 +52,7 @@ The **AI Agent Project** focuses on auditing pre-existing applications while dev
 
 - Built using **LangChain** for modular AI workflows.  
 - Implements **structured output parsing** via **Pydantic**.  
-- Includes **DuckDuckGo Search API**, **WikipediaQueryRun**, and a **custom tool** for research storage.  
+- **WikipediaQueryRun**, and a **custom tool** for research storage.  
 - Interacts through a **structured prompt system** for guided AI responses.  
 - Uses **dotenv** to manage API keys securely.  
 
@@ -67,7 +67,6 @@ The **AI Agent Project** focuses on auditing pre-existing applications while dev
 | **Pydantic**    | Data validation and structured output parsing |
 | **OpenAI GPT-4o-mini** | AI model for research and text generation |
 | **Wikipedia API** | Knowledge retrieval |
-| **DuckDuckGo Search API** | Web-based information extraction |
 | **dotenv** | Secure API key and credential management |
 
 ---
