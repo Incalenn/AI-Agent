@@ -105,9 +105,56 @@ The **AI Agent Project** focuses on auditing pre-existing applications while dev
 
 ---
 
-## 🚀 Onboarding & Setup  
+## 🚀 Getting Started  
 
 ### 🔹 1. Install Dependencies  
+Ensure you have Python installed, then run:  
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 🔹 2. Configure Environment Variables  
+Create a `.env` file in the root directory and add your API keys:  
+
+```ini
+OPENAI_API_KEY=your_openai_api_key
+DUCKDUCKGO_API_KEY=your_duckduckgo_api_key
+```
+
+### 🔹 3. Run the AI Agent  
+Execute the main script to start the AI agent:  
+
+```bash
+python main.py
+```
+
+---
+
+## ⚡ Additional Features  
+🔹 **Web Scraping & Wikipedia Search** – Utilize `tools.py` for advanced research capabilities.  
+🔹 **Save Research Results** – Automatically stores research outputs in a structured format.  
+
+---
+
+## 🔮 Future Enhancements  
+To make this project even more powerful, I plan to:  
+
+✅ Automate AI tasks (e.g., **job applications on LinkedIn** 🤯).  
+✅ Expand AI model integrations for broader adaptability.  
+✅ Enhance research storage capabilities with a **database**.  
+
+---
+
+## 🎓 Conclusion  
+The **AI Agent Project** successfully integrates multiple research tools and AI models to provide structured, accurate, and efficient research assistance. Its **modular and scalable** architecture allows for future enhancements, making it a powerful AI-driven research assistant.  
+
+💡 If you have **ideas, feedback, or suggestions**, feel free to **contribute**! 🚀  
+
+---
+
+## 📬 Contact  
+🔹 **GitHub**: [github.com/yourusername](https://github.com/Incalenn)  
+🔹 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vanalennpham/) 
+
+---
