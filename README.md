@@ -154,7 +154,7 @@ The **AI Agent Project** successfully integrates multiple research tools and AI 
 ---
 
 ## 📬 Contact  
-🔹 **GitHub**: [github.com/Incalenn]
-🔹 **LinkedIn**: [linkedin.com/in/vanalennpham/]
+🔹 **GitHub**: [github.com/Incalenn](https://github.com/Incalenn)  
+🔹 **LinkedIn**: [linkedin.com/in/vanalennpham](https://www.linkedin.com/in/vanalennpham/)  
 
 ---
