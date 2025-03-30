@@ -147,7 +147,7 @@ To make this project even more powerful, I plan to:
 ## 🎓 Conclusion  
 The **AI Agent Project** successfully integrates multiple research tools and AI models to provide structured, accurate, and efficient research assistance. Its **modular and scalable** architecture allows for future enhancements, making it a powerful AI-driven research assistant.  
 
-💡 If you have **ideas, feedback, or suggestions**, feel free to **contribute**! 🚀  
+💡 If you have **ideas, feedback, or suggestions**, feel free to **let me know**! 🚀  
 
 ---
 
